@@ -1,0 +1,7 @@
+import java.util.*;
+
+class main {
+  public static void main(){
+    System.out.print("WELCCOME TO MY GITHUB PROFILE");
+  }
+}
