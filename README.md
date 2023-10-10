@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prajwal
-- 👀 I’m interested in data sciences
-- 🌱 I’m currently studying in 3rd year at SGGSIE&T.
+- 👀 I’m interested in software development. I do Java and have studied Spring framework.
+- 🌱 I’m currently studying in final year at SGGSIE&T.
 - 📫 Email : prajwaldalal84@gmail.com
 
 <!---
